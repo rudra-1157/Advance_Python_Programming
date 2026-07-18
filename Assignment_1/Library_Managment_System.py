@@ -78,3 +78,15 @@ while True:
         break
     else:
         print("Invalid Choice.")
+
+
+#output
+# ----- Library Menu -----
+# 1. Add Book
+# 2. Register Patron
+# 3. Borrow Book
+# 4. Return Book
+# 5. Exit
+# Enter Your Choice: 1
+# Enter Book Name: Ikakai     
+# Book Added Successfully.
