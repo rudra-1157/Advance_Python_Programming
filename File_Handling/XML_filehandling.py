@@ -27,6 +27,6 @@ print("City:", root.find("city").text)
 
 # Output - 
 # Student Details:
-# Name: Sanket
+# Name: Rudra
 # Age: 20
 # City: Pune
