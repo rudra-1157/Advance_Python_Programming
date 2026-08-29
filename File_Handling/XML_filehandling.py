@@ -4,7 +4,7 @@ import xml.etree.ElementTree as ET
 root = ET.Element("student")
 
 name = ET.SubElement(root, "name")
-name.text = "Sanket"
+name.text = "Rudra"
 
 age = ET.SubElement(root, "age")
 age.text = "20"
